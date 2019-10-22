@@ -1,4 +1,6 @@
-var playlist = {'My Bloody Valentine': 'Sometimes', 'Phil Ochs': "Here's to the State of Mississippi"}
+var playlist = {
+  'Alison': 'My Bloody Valentine', 'Phil Ochs': 'Here\'s to The State of Mississippi'
+}
 
 
 function updatePlayList(playlist, artistName, songTitle){
