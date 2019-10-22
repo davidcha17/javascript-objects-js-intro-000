@@ -4,7 +4,7 @@ var playlist = {
 
 
 function updatePlayList(playlist, artistName, songTitle){
-  playlist[artistName] = songTitle
+  add playlist[artistName] = songTitle
   return playlist
 }
 
